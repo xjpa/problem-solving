@@ -1,4 +1,8 @@
 // https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/A
+/*
+store name
+output hello + name
+ */
 #include <iostream>
 #include <string>
 
