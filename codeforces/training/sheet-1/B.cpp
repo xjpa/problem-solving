@@ -5,7 +5,6 @@ output them line by line
  */
 
 #include <iostream>
-#include <string>
 
 int main()
 {
