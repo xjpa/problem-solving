@@ -1,5 +1,6 @@
 // https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/A
 /*
+approach:
 store name
 output hello + name
  */

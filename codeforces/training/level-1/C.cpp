@@ -1,5 +1,6 @@
 // https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/C
 /*
+approach:
 just print and do math operations
 apparently they have a large input so i'll use long long
  */

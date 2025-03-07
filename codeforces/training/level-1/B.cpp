@@ -1,5 +1,6 @@
 // https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/B
 /*
+approach:
 read input: int, long long, char, float, double
 output them line by line
  */
